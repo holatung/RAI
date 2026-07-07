@@ -2,12 +2,12 @@
 This repository contains the theoretical studies, data, and visualizations associated with the abstract, 
 "The Human Touch: Navigating the Challenges of Automation and Accuracy for AI in Journalism." 
 This project explores the critical intersection of artificial intelligence and journalistic practice, 
-focusing on the ethical and practical considerations of AI tools in news production by exporing journalistic processes such as fact checking, 
-content moderation, synthetic media and editorial policy.
+focusing on the ethical and practical considerations of AI tools in news production by exploring journalistic processes such as fact-checking, 
+content moderation, synthetic media, and editorial policy.
 
 # Project Overview
 The core objective of this study is to examine the potential pitfalls and benefits of integrating AI into journalism. 
-The epistemology of AI guardrails were explored through the lens of Human Rights Ethics-by-Design Framework to quantify and embedding RAI design including:
+The epistemology of AI guardrails was explored through the lens of Human Rights Ethics-by-Design Framework to quantify and embed RAI design, including:
 * Algorithmic Fairness Index (AFI)
 * Bias Accuracy Trade-Off Metric
 * Ethical Debt Metric and
@@ -41,11 +41,11 @@ then applies critical thinking and ethical judgment to verify the findings befor
 
 # Architecture:
 
-RAG or agentic architectures for answering questions depends on a 
+RAG or agentic architectures for answering questions depend on a 
 dynamic knowledge base that keeps updating over time, such as financial reports or 
-documentation, so that the reasoning and planning steps remains logical and accurate.
-To handle such a knowledge base, where the size continuously grows and the chances of hallucinations can increase, 
-a separate logical-temporal (time-aware) agentic pipeline is required to manage this evolving knowledge base within your AI product as shown in the figure below
+documentation, so that the reasoning and planning steps remain logical and accurate.
+To handle such a knowledge base, where the size continuously grows, and the chances of hallucinations can increase, 
+a separate logical-temporal (time-aware) agentic pipeline is required to manage this evolving knowledge base within your AI product, as shown in the figure below
 <img width="4800" height="2265" alt="image" src="https://github.com/user-attachments/assets/bf2c9189-93a3-43a1-9997-2ff2aa23592e" />
 
 # Project Structure
@@ -80,4 +80,4 @@ Authored by: Israel Olatunji Tijani
 Affiliation: ChatVE
 ```
 
-Note: This research abstract was present at the Society for Social Studies of Science (4S) Conference, Seattle 2025 under the theme `Reverberation`. [4S Conference](https://www.4sonline.org/final_program_seattle.php)
+Note: This research abstract was presented at the Society for Social Studies of Science (4S) Conference, Seattle, 2025 under the theme `Reverberation`. [4S Conference](https://www.4sonline.org/final_program_seattle.php)
